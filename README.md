@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varad121
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning devops
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
